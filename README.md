@@ -5,4 +5,4 @@ Cybersecurity Domains
 
 
 
-Credit: I modified the Mindmap - the Orginal mind map was from https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp
+Credit: This is my modified version - the Orginal mind map was from https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp
